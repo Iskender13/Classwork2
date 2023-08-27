@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+    <resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+
+
+
+    <style parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" name="Base.Theme.SecondApp">
+
+    <!-- Customize your light theme here. -->
+
+
+    <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+
+</style>
+
+    <style parent="Base.Theme.SecondApp" name="Theme.SecondApp"/>
+
+</resources>
